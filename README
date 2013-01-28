@@ -1,4 +1,10 @@
+An addition to the main flask tutorial from the flask
+documentation.
 
+Adding OAuth to the microblogging app.
+
+
+Original Readme:
                          / Flaskr /
 
                  a minimal blog application
